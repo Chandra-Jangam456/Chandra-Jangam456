@@ -68,7 +68,7 @@ With hands-on experience from internships and academic projects, I bring both th
 - ✅ Demonstrated exceptional attention to detail in field implementations
 - 🎖️ Received **Internship Experience Certificate** (Ref: SAN/HR/IEC/049)
 
-**Technologies:** Java • Python • JavaScript • Git • VS Code • Agile
+**Technologies:** Flask • Python • MYSQL • Git • VS Code
 
 ---
 
