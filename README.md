@@ -20,7 +20,7 @@
 
 ## 🎯 About Me
 
-I'm a **Junior Software Developer** at Sankalp Concepts LLP, Hyderabad, with 6 months of hands-on experience (3-month internship + 8 months full-time) building real-world software. I graduated with a **B.Tech in Electronics & Communication Engineering (CGPA: 9.39)**, which gives me a strong problem-solving foundation that I now apply to software development.
+I'm a **Junior Software Developer** at Sankalp Concepts LLP, Hyderabad, with 11 months of hands-on experience (3-month internship + 8 months full-time) building real-world software. I graduated with a **B.Tech in Electronics & Communication Engineering (CGPA: 9.39)**, which gives me a strong problem-solving foundation that I now apply to software development.
 
 Currently working on an enterprise-grade **School Profiling Project** using **Python and MySQL**, I'm passionate about building clean, efficient, and scalable backend solutions.
 
